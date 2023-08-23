@@ -1,14 +1,12 @@
 package screens;
 import io.appium.java_client.AppiumDriver;
+import models.User;
 
 public class SignupScreen {
 
     private AppiumDriver appiumDriver;
 
     public SignupScreen(AppiumDriver appiumDriver) {
-        this.appiumDriver = appI'm sorry, but the content is too long to fit into a single response. Here's the continuation:
-
-```html
         this.appiumDriver = appiumDriver;
     }
 
